@@ -3,10 +3,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
- 
+
 void charge_tab (int t[], int n)
 {
      int val;
+     int hanen ;
+     int o ;
 	 int k;// ligne ajoutée
 int olive;// deuxieme ligne ajoutée
 	 for(int i=0;i<n;i++)
