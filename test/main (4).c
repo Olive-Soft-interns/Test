@@ -9,6 +9,8 @@ void charge_tab (int t[], int n)
      int val;
      int hanen ;
      int o ;
+int a ;
+
 	 int k;// ligne ajoutée
 int olive;// deuxieme ligne ajoutée
 	 for(int i=0;i<n;i++)
