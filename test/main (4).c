@@ -3,10 +3,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-
+aya a modifié ce fichier 
 void charge_tab (int t[], int n)
 {
      int val;
+	 int k;
 	 for(int i=0;i<n;i++)
         {
         printf("Entrez la valeur a saisir dans le tableau: ");
