@@ -10,6 +10,7 @@ void charge_tab (int t[], int n)
      int hanen ;
      int o ;
      int modification ;
+     int j ;
 int a ;
 
 	 int k;// ligne ajoutée
